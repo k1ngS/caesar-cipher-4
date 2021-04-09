@@ -1,7 +1,7 @@
 # caesar-cipher
 Project # 8
 
-https://replit.com/@k1ings/caesar-cipher-4-start?v=1
+https://replit.com/@k1ings/caesar-cipher-4-start?embed=1&output=1#main.py
 
 Project had already done in the course "100 Days of Code - The Complete Python Pro Bootcamp for 2021"
 
